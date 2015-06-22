@@ -13,8 +13,8 @@ UI of this project based on Qt, Qwt libraries and ported on Qt 4.6.3, 4.8.3 and 
 6. Identification signal's frequencies and more.
 
 ## History
-**0.1.2** Added build for MSVS 5.0  
-**0.1.1** Added build for Astra Linux  
+**0.1.2** Added build for Ubuntu 12.04+  
+**0.1.1** Added build for Fedora 9.0+  
 **0.0.1** Initial release
 
 ## License
