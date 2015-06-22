@@ -5,7 +5,7 @@ Intel® Integrated Performance Primitives, Intel® Math Kernel Library and Intel
 UI of this project based on Qt, Qwt libraries and ported on Qt 4.6.3, 4.8.3 and 5.2.1 versions.
 
 ## Main features
-1. Signal processing with different sampling rates (from 1 Hz to 450 Mhz) in 16-bit mode;
+1. Signal processing with different sampling rates (from 1 Hz to 250 Mhz) in 16-bit mode (data represents in two’s complement order);
 2. Extraction signal's amplitude-frequency characteristics;
 3. Signal processing using linear and nonlinear filters;
 4. Working with multichannel devices;
